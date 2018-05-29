@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="ae478d82-02b3-46c3-9837-a00367ff1d26" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/2017.2/project-config.xsd">
   <name>Versioned Settings</name>
-  <description>testttt</description>
+  <description>testttt111</description>
   <parameters />
   <project-extensions>
     <extension id="PROJECT_EXT_2" type="versionedSettings">
