@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="b2ea7a78-3588-4e2c-86a9-24eb4f9e8d63" type="jetbrains.git" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/2017.2/project-config.xsd">
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="b2ea7a78-3588-4e2c-86a9-24eb4f9e8d63" type="jetbrains.git" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/2018.1/project-config.xsd">
   <name>https://github.com/innayan/forvs</name>
   <param name="agentCleanFilesPolicy" value="ALL_UNTRACKED" />
   <param name="agentCleanPolicy" value="ON_BRANCH_CHANGE" />
