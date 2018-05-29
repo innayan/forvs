@@ -13,6 +13,12 @@
         <param name="showChanges" value="true" />
       </parameters>
     </extension>
+    <extension id="repository-nuget-default" type="PackageRepository">
+      <parameters>
+        <param name="name" value="default" />
+        <param name="type" value="nuget" />
+      </parameters>
+    </extension>
   </project-extensions>
   <cleanup />
 </project>
